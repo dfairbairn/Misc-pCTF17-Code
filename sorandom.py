@@ -1,3 +1,8 @@
+"""
+This code is originally from PicoCTF 2017. 
+
+It is in this repository for reference purposes only.
+"""
 #!/usr/bin/python -u
 import random,string
 
